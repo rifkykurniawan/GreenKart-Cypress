@@ -1,0 +1,16 @@
+{
+    "HomePage": {
+        "chartButton": ".cart-icon > img",
+        "chartImage": ".cart-icon > img",
+        "item1": ":nth-child(1) > .product-action > button",
+        "chartCount": ":nth-child(1) > :nth-child(3) > strong",
+        "proceedToCheckoutButton": ".cart-preview > .action-block > button"
+    },
+    "ChartPage": {
+        "placeOrderButton": "button:contains('Place Order')",
+        "promoCodeInput": ".promoCode",
+        "promoCodeApplyButton": ".promoBtn",
+        "totalAmount": "span.totAmt",
+        "cartTable": ".cartTable"
+    }
+}
